@@ -1,6 +1,3 @@
-#ifndef OCULUSSTORM_FORWARD_H_INCLUDED
-#define OCULUSSTORM_FORWARD_H_INCLUDED
+#pragma once
 
 class oculusstorm;
-
-#endif // OCULUSSTORM_FORWARD_H_INCLUDED
